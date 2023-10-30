@@ -1,0 +1,13 @@
+{
+  "cSpell.words": [
+    "freivalds",
+    "mult",
+    "readarray",
+    "readint",
+    "readmatrix"
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none"
+}
